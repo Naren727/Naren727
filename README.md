@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me ...
+- 📫 Reach me at : Narendran623@gmail.com or text me at my LinkedIn - https://www.linkedin.com/in/slysly/
 
 <!---
 Naren727/Naren727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
