@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Narendran :)
 
-- 👀 I’m interested in nothing much :|
+- 👀 I’m interested in Finance,Statistics and Data Analytics
 
 - 🌱 I’m currently pursuing Msc Data Science at Coimbatore Institute of Technology
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Fintech, gaming and data science projects.
 
 - 📫 Reach me at : Narendran623@gmail.com or text me at my LinkedIn - https://www.linkedin.com/in/slysly/
 
