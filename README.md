@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Narendran :)
+- 👋 Hi, I’m Narendran :) 
 
-- 👀 I’m interested in Finance,Statistics and Data Analytics(Secretly interested in cool stuff like Anime,Quantum computing & Game theory as well :) )
+- 👀 I’m interested in Finance,Statistics and Data Analytics(Secretly interested in cool stuff like Anime,Quantum computing & Game theory as well :) ).I essentially want to do data science to make drastic changes that would make the world a better place.
 
 - 🌱 I’m currently pursuing Msc Data Science at Coimbatore Institute of Technology
 
